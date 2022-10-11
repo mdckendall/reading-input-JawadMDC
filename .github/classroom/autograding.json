@@ -8,7 +8,7 @@
       "output": "5",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 50
     },
     {
       "name": "Test 2",
@@ -18,7 +18,7 @@
       "output": "1",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 50
     }
   ]
 }
